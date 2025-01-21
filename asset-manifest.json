@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8fd15ec.css",
+    "main.js": "/static/js/main.084ba733.js",
+    "static/media/me-2.jpg": "/static/media/me-2.1d3c4f99eb3d29d69041.jpg",
+    "static/media/RR.png": "/static/media/RR.75dcb4d212034ddc5d21.png",
+    "static/media/ZAP.jpg": "/static/media/ZAP.7e39b46d3e53bf333b8f.jpg",
+    "static/media/resume.pdf": "/static/media/resume.2f24d50ab7a382d6b4be.pdf",
+    "static/media/me.jpg": "/static/media/me.153278ae81c0cd8ec6b2.jpg",
+    "static/media/blog-1.svg": "/static/media/blog-1.f765e1b0fff9fb909ed6db7a682ac4e2.svg",
+    "static/media/gihub-actions.jpg": "/static/media/gihub-actions.a6726d4e4db710eca1aa.jpg",
+    "static/media/kubebench.png": "/static/media/kubebench.1181b382d8da6a504ba1.png",
+    "static/media/CKA.png": "/static/media/CKA.4d6b6316cbda8145525b.png",
+    "static/media/cisco-nwess.png": "/static/media/cisco-nwess.97de23948fd43589f348.png",
+    "static/media/blog-3.svg": "/static/media/blog-3.6746a86faea2f6e46ed596388bc91e1c.svg",
+    "static/media/AWS-CIS.png": "/static/media/AWS-CIS.0d2443bb0e1af0502eb5.png",
+    "static/media/SSO.png": "/static/media/SSO.fcc8dff730f3a3686f75.png",
+    "static/media/AWS-solution-architect.png": "/static/media/AWS-solution-architect.a9ded842f8b2f63ea7a5.png",
+    "static/media/dots-bg-dark.svg": "/static/media/dots-bg-dark.3fb919e37bd3f4cdeed2.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.f9af2a6a4e3508808a05.svg",
+    "index.html": "/index.html",
+    "main.e8fd15ec.css.map": "/static/css/main.e8fd15ec.css.map",
+    "main.084ba733.js.map": "/static/js/main.084ba733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fd15ec.css",
+    "static/js/main.084ba733.js"
+  ]
+}
